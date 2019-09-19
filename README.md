@@ -20,7 +20,7 @@ All contributions are welcome. Please see [[this page](https://github.com/Bit-Wa
 
 ## Documentation
 
- Check out the beginnings of the documentation for the library: [[Introduction](doc/documentation/Introduction.md)]
+Check out the beginnings of the documentation for the library: [[Introduction](doc/documentation/Introduction.md)], recommend this online course [Programming Bitcoin Application in PHP](http://xc.hubwiz.com/course/5b9e779ac02e6b6a59171def?affid=github7878)
 
 ## Presently supported:
 
